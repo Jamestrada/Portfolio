@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://jamestrada.github.io/RandomQuoteGenerator/",
             "github_link": "https://github.com/Jamestrada/RandomQuoteGenerator",
-            "image_urls": ["../img/p1main.png", "../img/p1landscape.png"]
+            "image_urls": ["/static/img/p1main.png", "/static/img/p1landscape.png"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://jamestrada.github.io/PaginationFiltering/",
             "github_link": "https://github.com/Jamestrada/PaginationFiltering",
-            "image_urls": ["../img/p2main.png", "../img/p2landscape.png"]
+            "image_urls": ["/static/img/p2main.png", "/static/img/p2landscape.png"]
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://jamestrada.github.io/InteractiveForm/",
             "github_link": "https://github.com/Jamestrada/InteractiveForm",
-            "image_urls": ["../img/p3main.png", "../img/p3landscape.png"]
+            "image_urls": ["/static/img/p3main.png", "/static/img/p3landscape.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://jamestrada.github.io/GameShow/",
             "github_link": "https://github.com/Jamestrada/GameShow",
-            "image_urls": ["../img/p4main.png", "../img/p4landscape1.png", "../img/p4landscape2.png", "../img/p4landscape3.png"]
+            "image_urls": ["/static/img/p4main.png", "/static/img/p4landscape.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["AJAX", "HTTP", "API","JavaScript", "HTML", "CSS"],
             "live_link": "https://jamestrada.github.io/Public-API-Requests/",
             "github_link": "https://github.com/Jamestrada/Public-API-Requests",
-            "image_urls": ["../img/p5main.png", "../img/p5landscape1.png", "../img/p5landscape2.png", "../img/p5landscape3.png"]
+            "image_urls": ["/static/img/p5main.png", "/static/img/p5landscape.png"]
         }
     ]
 }

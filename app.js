@@ -9,14 +9,14 @@ const app = express();
 const {projects} = require('./data.json');
 
 
-// Setting middleware
+// Setting view engine and static middleware
 app.set('view engine', 'pug');
 app.use('/static', express.static('public'));
 
 // Index route
 app.get('/', (req, res) => {
-    res.locals.data = projects;
-    res.render('index');
+    // res.locals.data = projects;
+    res.render('index', {projects});
 });
 
 // About route
