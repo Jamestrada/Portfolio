@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "A portfolio of programming projects",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Estrada",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}

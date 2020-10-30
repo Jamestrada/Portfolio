@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Displays random famous quotes each time a button is clicked or a period of time has passed.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jamestrada.github.io/RandomQuoteGenerator/",
+            "github_link": "https://github.com/Jamestrada/RandomQuoteGenerator",
+            "image_urls": ["../img/p1main.png", "../img/p1landscape.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Pagination and Filtering",
+            "description": "Navigates through pagination to a list of items. The items can also be searched and filtered through a search bar.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jamestrada.github.io/PaginationFiltering/",
+            "github_link": "https://github.com/Jamestrada/PaginationFiltering",
+            "image_urls": ["../img/p2main.png", "../img/p2landscape.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "An interactive web form",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jamestrada.github.io/InteractiveForm/",
+            "github_link": "https://github.com/Jamestrada/InteractiveForm",
+            "image_urls": ["../img/p3main.png", "../img/p3landscape.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Game Show",
+            "description": "A guessing game where a player tries to guess a phrase by clicking on an onscreen keyboard or typing letters on their physical keyboard.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jamestrada.github.io/GameShow/",
+            "github_link": "https://github.com/Jamestrada/GameShow",
+            "image_urls": ["../img/p4main.png", "../img/p4landscape1.png", "../img/p4landscape2.png", "../img/p4landscape3.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Employee Directory",
+            "description": "Grabs random information of random people pulled from the web. The employees can be searched and filtered through a search bar",
+            "technologies": ["AJAX", "HTTP", "API","JavaScript", "HTML", "CSS"],
+            "live_link": "https://jamestrada.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/Jamestrada/Public-API-Requests",
+            "image_urls": ["../img/p5main.png", "../img/p5landscape1.png", "../img/p5landscape2.png", "../img/p5landscape3.png"]
+        }
+    ]
+}
